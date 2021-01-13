@@ -1,0 +1,11 @@
+form {
+    background-color: rgb(203, 229, 238);
+    width: 18rem;
+    height: 28rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+     align-items: center;
+     border-radius: 2rem;
+
+}
